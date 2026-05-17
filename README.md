@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Oleg&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Oleg&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38" alt="Header" />
 
 <br/>
 
@@ -39,20 +39,18 @@
 ---
 
 ## 📊 GitHub Stats
- 
+
 <div align="center">
- 
-<a href="https://github.com/sokolovskiyoleg">
-  <img src="https://github-readme-stats.vercel.app/api?username=sokolovskiyoleg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sokolovskiyoleg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" height="165"/>
-</a>
- 
+
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sokolovskiyoleg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sokolovskiyoleg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" alt="Top Languages" />
+
 </div>
- 
+
 <div align="center">
- 
-![Streak](https://streak-stats.demolab.com?user=sokolovskiyoleg&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=8b949e)
- 
+
+![Streak](https://streak-stats.demolab.com?user=sokolovskiyoleg&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=c9d1d9 "GitHub Streak")
+
 </div>
 
 ---
@@ -61,7 +59,7 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sokolovskiyoleg&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sokolovskiyoleg&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true "Activity Graph")
 
 </div>
 
